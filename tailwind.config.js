@@ -3,17 +3,25 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   daisyui: {
     themes: [
-      {
+          {
         mytheme: {
-          primary: "#84cc16",
-          secondary: "#a3e635",
-          accent: "#65a30d",
-          neutral: "#d9f99d",
-          "base-100": "#ecfccb",
-          info: "#2463eb",
-          success: "#16a249",
-          warning: "#db7706",
-          error: "#dc2828",
+          primary: "#6ed648",
+
+          secondary: "#4da6cc",
+
+          accent: "#f78fb9",
+
+          neutral: "#16161d",
+
+          "base-100": "#383857",
+
+          info: "#a1daf2",
+
+          success: "#29c79f",
+
+          warning: "#f99e43",
+
+          error: "#ed2c62",
         },
       },
     ],
